@@ -1,5 +1,5 @@
 
- 🖥️ Mini Compiler 
+<h1> 🖥️ Mini Compiler </h1>
 
 A simple **mini compiler** built in Python that demonstrates the full compilation pipeline:
 
