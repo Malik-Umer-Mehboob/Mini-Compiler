@@ -1,7 +1,5 @@
 
-
-```markdown
- 🖥️ Mini Compiler for a Custom Language
+ 🖥️ Mini Compiler 
 
 A simple **mini compiler** built in Python that demonstrates the full compilation pipeline:
 
